@@ -1,3 +1,8 @@
+
+>This is intended to be a port of [LoopBack](https://github.com/strongloop/loopback) in Golang<br>
+>For the time being, this is an exact replica of the original loopback code base. The plan is to port small parts of the codebase in such a way that at any given point of time the project as a whole will remain functional
+___
+
 # LoopBack
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/strongloop/loopback?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
