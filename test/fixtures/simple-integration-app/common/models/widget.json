@@ -1,0 +1,15 @@
+{
+  "name": "widget",
+  "properties": {
+    "name": {
+      "type": "string",
+      "default": "DefaultWidgetName"
+    }
+  },
+  "relations": {
+    "store": {
+      "model": "store",
+      "type": "belongsTo"
+    }
+  }
+}
